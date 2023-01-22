@@ -1,6 +1,19 @@
 # Monobank-API-to-Notion
 Use webhooks to add expenses to your Notion
 
+## Set up Notion
+
+1. Duplicate the template: https://rubickwilde.notion.site/Mono-APP-f19fe9c1c15c4efaaabb2fa69b37d53c
+
+2. Create an integration here: https://www.notion.so/my-integrations
+
+3. Copy the token 
+
+4. Share the duplicated page with integreation: <img width="345" alt="image" src="https://user-images.githubusercontent.com/80600884/213931632-8ca48164-fcb2-477f-863f-818f82309867.png">
+
+
+## Set up Autocode
+
 1. Create account at https://autocode.com/
 
 2. Upload the main file to "functions" section and findAccount.js to helpers
