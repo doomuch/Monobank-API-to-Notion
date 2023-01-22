@@ -3,7 +3,7 @@
 const { Client } = require('@notionhq/client');
 const notion = new Client({ auth: "PASTE YOUR TOKEN HERE" });
 
-const queryDatabase = require('./findAccount')
+const queryDatabase = require('./../helpers/findAccount')
 
 const ENTRIES_DATABASE_ID = "paste it here";
 const accountDatabaseID = "paste it here";
