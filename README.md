@@ -9,7 +9,10 @@ Use webhooks to add expenses to your Notion
 
 3. Copy the token 
 
-4. Share the duplicated page with integreation: <img width="345" alt="image" src="https://user-images.githubusercontent.com/80600884/213931632-8ca48164-fcb2-477f-863f-818f82309867.png">
+4. Share the duplicated page with integreation
+a. Three dots in the upper right corner<img width="315" alt="image" src="https://user-images.githubusercontent.com/80600884/213931672-9ce4fdf4-102a-4aee-8069-ab83dd79dca4.png">
+b. "Connections" <img width="295" alt="image" src="https://user-images.githubusercontent.com/80600884/213931677-f37e681e-c5c9-4670-b722-4aa8a30c36a8.png">
+
 
 
 ## Set up Autocode
