@@ -1,7 +1,7 @@
 
 
 const { Client } = require('@notionhq/client');
-const notion = new Client({ auth: "secret_fZS8vj1Xcoce304v0AvvGjPnKQGKxNn7dCh3ukVeZyf" });
+const notion = new Client({ auth: "PASTE YOUR TOKEN HERE" });
 
 const queryDatabase = require('./../helpers/findAccount')
 
